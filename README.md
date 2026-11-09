@@ -1,7 +1,5 @@
 # Central Limit Theorem – Statistical Simulation using R
 
-## Project Description
-
 This project demonstrates the Central Limit Theorem (CLT) through statistical simulations using R. It examines how the sampling distribution of sample means approaches a normal distribution when repeated samples are drawn from different underlying population distributions.
 
 The simulation uses Normal, Poisson and Continuous Uniform distributions to explore the behaviour of sample means through histograms.
